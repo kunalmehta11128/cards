@@ -85,5 +85,11 @@ public class Constants {
 	public static String STOP = "stop";
 	
 	public static Character HASH = '#';
+	
+	public static String SPADE = "S";
+	public static String HEART = "H";
+	public static String DIMAND = "D";
+	public static String CLUB = "C";
+	
 
 }
